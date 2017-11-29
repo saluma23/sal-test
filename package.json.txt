@@ -1,0 +1,22 @@
+{
+"name": "node-example",
+"version": "0.0.1",
+"scripts": {
+"start" : "node web.js"
+},
+
+
+
+"dependencies" : {
+"express": "2.5.x"
+},
+"engines": {
+"node": "6.11.2",
+"npm":"3.10.10"
+
+},
+
+"author":"salman",
+"license" : "ISC"
+
+}
